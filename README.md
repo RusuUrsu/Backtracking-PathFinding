@@ -10,7 +10,7 @@ This app uses a backtracking algorithm to explore and find paths for different c
 - **Randomized Board Setup**: Pieces are randomly placed on the board each time the app starts.
 - **Coordinate Input**: Users can input coordinates for the piece and target locations.
 - **Path Calculation**: Shows a valid path for the selected piece to reach the target using chess rules.
-- **Backtracking Algorithm**: Efficiently finds valid moves while adhering to movement rules for each piece.
+- **Backtracking Algorithm**: Finds valid moves while adhering to movement rules for each piece.
 
 ## Getting Started
 
